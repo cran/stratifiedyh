@@ -1,0 +1,11 @@
+0f44d5536dc0cda73b21e4504929bb3b *DESCRIPTION
+cc898633a686687ffdb7bd32d05fdd79 *LICENSE
+8e3ea55cc3b3488860a37f257c810f84 *NAMESPACE
+69f7cad2701abd788007924fc753ba21 *R/stratifiedyh.R
+b0aef769bafa87b3630273f988ae2950 *man/cluster_labels.Rd
+9057ab1a97d61f566a888dfc52125bb2 *man/custom_transform.Rd
+4a94e8136929dfe253a3291885826057 *man/stratified_custom_labels.Rd
+9ef0fdf8e0cf5a62e6d569f7b8f1f060 *man/stratified_labels.Rd
+2d685af234c7f95d688b1a3bb0d2b940 *man/systematic_labels.Rd
+25f7ec728fc6e6fcba0ab72d217c5967 *tests/testthat.R
+e8f94a9e15e2941611dbaafaecbf0759 *tests/testthat/test-stratified_labels.R
